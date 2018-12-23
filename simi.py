@@ -6,7 +6,7 @@ from datetime import datetime
 import time, random, sys, re, os, ast, json, subprocess, threading, string, codecs, requests, ctypes, urllib, urllib2, urllib3, tempfile, glob, shutil, unicodedata
 
 prank = PRANKBOTS.LINE()
-prank.login(token="EpTFetudm6q6rbHVAdT6.9zkQQXcYKYEwrakH49bR5G.TmlIK+1t8KU9jR/gkOsd7K3yjPaLBHnPDGeSnCaabmM=")
+prank.login(token="EA12dbKJcIgGPp9NDuna.vv3qn3hxFaT/IiAfSnmrcG.KI6TRmOevutB78Ap3kt7q6Mbkt2xOz/xIKTNQ1Ia/Yc=")
 prank.loginResult()
 
 print "login success"
@@ -15,8 +15,8 @@ sys.setdefaultencoding('utf-8')
 
 KAC=[prank]
 mid = prank.getProfile().mid
-Bots=[mid,"ufce863f62f40706c01fa4a3c3c4cb096"]
-admin=["ufce863f62f40706c01fa4a3c3c4cb096"]
+Bots=[mid,"u555dd03771d77c0b7e888685b0d3110a"]
+admin=["uf85670df69fb4c19ea8d9b279059a629"]
 
 wait = {
     'contact':False,
