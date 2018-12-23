@@ -6,7 +6,7 @@ from datetime import datetime
 import time, random, sys, re, os, ast, json, subprocess, threading, string, codecs, requests, ctypes, urllib, urllib2, urllib3, tempfile, glob, shutil, unicodedata
 
 prank = PRANKBOTS.LINE()
-prank.login(token="EA12dbKJcIgGPp9NDuna.vv3qn3hxFaT/IiAfSnmrcG.KI6TRmOevutB78Ap3kt7q6Mbkt2xOz/xIKTNQ1Ia/Yc=")
+prank.login(token="EALXiIr0uR9JXJ0Cpxpa.vv3qn3hxFaT/IiAfSnmrcG.sPpRmSNg9bcx/CNKkfvFMdB7XYmWfp+RTPGdexsyek0=")
 prank.loginResult()
 
 print "login success"
